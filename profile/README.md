@@ -3,9 +3,10 @@
 <p><strong>Cumulo</strong> is an active member of the community of validators in blockchain networks. In some of them, he also manages the Spanish user communities in different channels such as Telegram or Discord. Another great value he brings is the generation of content in Spanish for these communities. 
 </p>
 
-
-<a href="https://twitter.com/Cumulo_pro"><img width="75" alt="twitter" src="https://user-images.githubusercontent.com/2853158/218300145-d265b9ad-69eb-4352-b30f-c4cc77002b98.png"></a> 
-<a href="https://www.linkedin.com/company/76103865/"><img width="75" alt="linkedin" src="https://user-images.githubusercontent.com/2853158/218300287-186e5863-8509-4eee-b016-ae5c88bc6be6.png"></a> 
-<a href="https://medium.com/cumulo-pro"><img width="75" alt="medium" src="https://user-images.githubusercontent.com/2853158/218300610-4b2ec6cb-f92e-4938-b3d6-e2da619be7df.png"></a> 
+<p align="center">
+<a href="https://twitter.com/Cumulo_pro"><img width="75" alt="twitter" src="https://user-images.githubusercontent.com/2853158/218300145-d265b9ad-69eb-4352-b30f-c4cc77002b98.png"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/76103865/"><img width="75" alt="linkedin" src="https://user-images.githubusercontent.com/2853158/218300287-186e5863-8509-4eee-b016-ae5c88bc6be6.png"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/cumulo-pro"><img width="75" alt="medium" src="https://user-images.githubusercontent.com/2853158/218300610-4b2ec6cb-f92e-4938-b3d6-e2da619be7df.png"></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:cumulo.pro@gmail.com"><img width="75" alt="email" src="https://user-images.githubusercontent.com/2853158/218301431-d1641c39-b6a1-4dab-b15a-72a282bc061e.png"></a>
 
+</p>
