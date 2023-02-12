@@ -4,4 +4,6 @@
 </p>
 
 
-<a href="https://twitter.com/Cumulo_pro"><img width="75" alt="twitter" src="https://user-images.githubusercontent.com/2853158/218300145-d265b9ad-69eb-4352-b30f-c4cc77002b98.png"></a>
+<a href="https://twitter.com/Cumulo_pro"><img width="75" alt="twitter" src="https://user-images.githubusercontent.com/2853158/218300145-d265b9ad-69eb-4352-b30f-c4cc77002b98.png"></a> 
+<a href="https://www.linkedin.com/company/76103865/"><img width="75" alt="linkedin" src="https://user-images.githubusercontent.com/2853158/218300287-186e5863-8509-4eee-b016-ae5c88bc6be6.png"></a> 
+
